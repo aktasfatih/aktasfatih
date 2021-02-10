@@ -1,7 +1,9 @@
 ### I am Fatih
 
 ## About me
-I am Fatih. I am Fatih. I am Fatih.
+I am a Computer Engineering graduate from University of Alberta. 
+
+A big portion of my life is pretty much all coding and playing guitar.
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/11vDNL1PrUUo0/giphy.gif">
