@@ -9,7 +9,7 @@ I love working on back-end systems, and any problems related to Distributed Syst
 </p>
 
   
-  ## Connect with me  
+  ## Connect me  
 <p align="center">
 <a href="https://github.com/aktasfatih" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
