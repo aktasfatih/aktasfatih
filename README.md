@@ -1,7 +1,7 @@
 ## About me
-I am a Computer Engineering graduate from University of Alberta. 
+I am an Upcoming Computer Engineering graduate from University of Alberta(April 2021). 
 
-A big portion of my life is pretty much all tech and playing guitar.
+I love working on back-end systems, and any problems related to Distributed Systems. 
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/11vDNL1PrUUo0/giphy.gif"><br />
