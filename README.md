@@ -1,5 +1,5 @@
 ## About
-I am an upcoming Computer Engineering graduate from University of Alberta(April 2021). 
+I am a Computer Engineering graduate from University of Alberta(April 2021). 
 
 I love working on back-end systems, and any problems related to Distributed Systems. 
 
