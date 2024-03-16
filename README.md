@@ -1,7 +1,7 @@
 ## About
 I am a Software Engineer in Canada.
 
-Graduated from University of Alberta(April 2021). 
+Computer Engineering at the University of Alberta. 
 
 I love working on back-end systems, and any problems related to Distributed Systems. 
 
