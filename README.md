@@ -1,9 +1,14 @@
-## About
-I am a Software Engineer in Canada.
-
-Studied Computer Engineering at the University of Alberta. 
-
-I love working on back-end systems, and any problems related to Distributed Systems. 
+<p align="center">
+  <img width="20%" style="float: left;" align="left" src="sparkles.gif" />
+  <img width="20%" src="sparkles.gif" style="float: right; width: 20%" align="right"/>
+</p>
+<h1>Hi there 👋, I am F4t1h.</h1>
+<ul>
+  <li>🔭 I’m currently working on <b>Distributed Systems</b></li>
+  <li>🌱 I’m currently building <b>SaaS</b></li>
+  <li>👯 I’m looking to collaborate on <b>Open Source Projects</b></li>
+  <li>💬 Ask me about <b>Distributed Systems</b></li>
+</ul>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/11vDNL1PrUUo0/giphy.gif"><br />
