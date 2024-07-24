@@ -2,7 +2,7 @@
   <img width="20%" style="float: left;" align="left" src="sparkles.gif" />
   <img width="20%" src="sparkles.gif" style="float: right; width: 20%" align="right"/>
 </p>
-<h1>Hi there 👋, I am F4t1h.</h1>
+<h1>Hi there 👋, I am F4t1h(he/him).</h1>
 <ul>
   <li>🔭 I’m currently working on <b>Distributed Systems</b></li>
   <li>🌱 I’m currently building <b>SaaS</b></li>
